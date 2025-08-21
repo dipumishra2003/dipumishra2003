@@ -48,16 +48,15 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DipuMishra&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipuMishra&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dipumishra2003&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipumishra2003&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
 
 ## 🌍 Connect With Me  
 💼 [LinkedIn](https://www.linkedin.com/in/dipu-mishra)  
-📧 **dipu.mishra@example.com** (replace with your real email)  
-📂 [Portfolio Website](https://your-portfolio-link.com) *(optional, if you plan to build one)*  
+📧 **dipumishra2003@gmail.com**
 
 ---
 
